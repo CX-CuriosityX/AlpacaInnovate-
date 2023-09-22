@@ -1,0 +1,111 @@
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-wii9bj2mli] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-wii9bj2mli] {
+  color: #0077cc;
+}
+
+.btn-primary[b-wii9bj2mli] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-wii9bj2mli], .nav-pills .show > .nav-link[b-wii9bj2mli] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-wii9bj2mli] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-wii9bj2mli] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-wii9bj2mli] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-wii9bj2mli] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-wii9bj2mli] {
+  position: absolute;
+  bottom: -30;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+
+#header_bar[b-wii9bj2mli] {
+  border: 1px solid #333;
+  height: 5%;
+  box-shadow: 8px 8px 5px #444;
+  padding: 10px 10px;
+  background-image: linear-gradient(90deg, #82a9f3, #4b5cee 40%, #180f69);
+  margin-bottom: 1%;
+  
+}
+
+#header_bar > *[b-wii9bj2mli] {
+  display:inline-block;
+}
+
+#head_bar_item[b-wii9bj2mli]{
+  float:right;
+  background-color: #4b5cee;
+  border: 1px solid #333;
+  padding: 8px 12px;
+}
+#head_bar_item >*[b-wii9bj2mli]{
+display:inline;
+
+}
+button[b-wii9bj2mli]{
+ font-size: smaller;
+}
+#logo[b-wii9bj2mli] {
+text-align: center;
+width: 105px;
+border: 1px solid #333;
+box-shadow: 8px 8px 5px #444;
+padding: 8px 0px;
+background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+font-size: smaller;
+}
+
+#vertical_nav_bar[b-wii9bj2mli]{
+display: inline-block;
+width: 200px;
+height: 600px;
+border: 1px solid #333;
+box-shadow: 8px 8px 5px #444;
+padding: 8px 12px;
+margin: 0% 0%;
+}
+
+#main[b-wii9bj2mli]{
+display: inline-block;
+position: relative;
+top: 0px;
+width: 1232px;
+height: 616px;
+border: 1px solid #333;
+box-shadow: 8px 8px 5px #444;
+}
+
+.content-main[b-wii9bj2mli]{
+border: 1px solid #333;
+box-shadow: 8px 8px 5px #444;
+padding: 8px 8px;
+}
